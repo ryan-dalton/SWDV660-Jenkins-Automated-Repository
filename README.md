@@ -1,2 +1,2 @@
 # SWDV660-Jenkins-Automated-Repository
-Repository to test automated jenkins job
+Ryan Dalton - Week 3 - SWDV660 Repository to test automated Jenkins job
